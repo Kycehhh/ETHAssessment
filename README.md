@@ -30,4 +30,6 @@ Ensures the _from address has sufficient balance to burn the specified amount
 - Use the mint function to generate new tokens.
 - Use the burn function to destroy tokens, ensuring the address has enough balance.
 
+## Author:
+Allen Kyle Sabilala @Kycehhh
 
