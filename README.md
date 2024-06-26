@@ -24,7 +24,7 @@ Parameters:
 ## Conditions:
 Ensures the _from address has sufficient balance to burn the specified amount
 
-Usage:
+## Usage:
 
 - Deploy the contract to an Ethereum network.
 - Use the mint function to generate new tokens.
